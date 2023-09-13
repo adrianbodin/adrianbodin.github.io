@@ -12,10 +12,11 @@ In this README.md i also learnt some markdown language that i have not used befo
 > - package.json
 > - tailwind.config.js
 
-> #### Files that i made and are used to build the website:
+> #### Files and folders that i made and are used to build the website:
 >
 > - index.html
 > - mywork.html
 > - aboutme.html
 > - contact.html
 > - styles.css
+> - /img
